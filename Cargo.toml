@@ -1,0 +1,8 @@
+[package]
+name = "carnac"
+version = "0.1.0"
+authors = ["Andrew Williams <williams.andrew@gmail.com>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+snap = "0.1"
